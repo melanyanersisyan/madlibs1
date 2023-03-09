@@ -1,0 +1,26 @@
+import random
+
+number = input ("Input a number:")
+measureoftime = input(" Input Measure of time:")
+modeoftransportation = input ("Input Mode Of Transportation:")
+adjective = input ("Input Adjective:")
+adjective2 = input ("Input Adjective2:")
+noun = input ("Input Noun:")
+color = input ("Input Color:")
+partofthebody = input ("Imput Part of the body:")
+verb = input ("Input Verb:")
+number2 = input ("Input Number2:")
+noun2 = input ("Input Noun2:")
+noun3 = input ("Input Noun3:")
+partofthebody2 = input("Input Part of the body2:")
+verb2 = input ("Input Verb2:")
+noun4 = input ("Imput Noun3:")
+adjective3 = input ("Imput Adjective3:")
+sillyword = input ("Imput Silly word:")
+noun5 = input ("Input Noun4:")
+
+
+madlib=f"It was about {number} {measureoftime} ago when I arrived at the hospital in a {modeoftransportation}. The hospital is a/an {adjective} place, there are a lot of {adjective2} {noun} here. There are nurses here who have {color} {partofthebody }. If someone wants to come into my room I told them that they have to {verb} first. I have decorated my room with {number2} {noun2}. Today I talked to a doctor and they were wearing a {noun3} on their {partofthebody2}. I heard that all doctors {verb2} {noun4} every day for breakfast. The most {adjective3} thing about being in the hospital is the {sillyword } {noun5}!"
+
+print(madlib)
+
