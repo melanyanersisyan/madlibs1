@@ -1,5 +1,6 @@
 import random
 
+
 number = input ("Input a number:")
 measureoftime = input(" Input Measure of time:")
 modeoftransportation = input ("Input Mode Of Transportation:")
